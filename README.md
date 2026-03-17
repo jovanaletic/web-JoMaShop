@@ -9,7 +9,7 @@ Aplikacija predstavlja **online shop** platformu za pregled i upravljanje proizv
 ## Tehnologije
 
 - **Backend:** JavaScript (Node.js + Express)
-- **Frontend:** JavaScript (React)
+- **Frontend:** JavaScript (React), HTML, CSS
 
 ## Pokretanje projekta
 
@@ -62,7 +62,7 @@ The application is an **online shop** platform for browsing and managing product
 ## Technologies
 
 - **Backend:** JavaScript (Node.js + Express)
-- **Frontend:** JavaScript (React)
+- **Frontend:** JavaScript (React), HTML, CSS
 
 ## Running the project
 
