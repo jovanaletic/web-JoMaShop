@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JoMaShop
 
 JoMaShop je projekat rađen u okviru predmeta **Web programiranje**.
