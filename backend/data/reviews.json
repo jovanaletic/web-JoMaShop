@@ -1,0 +1,46 @@
+[
+  {
+    "id": 2,
+    "productId": 4,
+    "sellerId": "2",
+    "buyerId": 1,
+    "orderId": 13,
+    "rating": 5,
+    "comment": "zadovoljan",
+    "dateCreated": "2025-10-03T11:33:56.281Z",
+    "reviewerRole": "seller"
+  },
+  {
+    "id": 3,
+    "productId": 5,
+    "sellerId": "3",
+    "buyerId": 2,
+    "orderId": 12,
+    "rating": 5,
+    "comment": "Zadovoljna sam. Saradjivacemo jos",
+    "dateCreated": "2025-10-03T11:34:32.489Z",
+    "reviewerRole": "buyer"
+  },
+  {
+    "id": 4,
+    "productId": 4,
+    "sellerId": "2",
+    "buyerId": 1,
+    "orderId": 13,
+    "rating": 5,
+    "comment": "Prezadovoljna sam",
+    "dateCreated": "2025-10-03T11:36:20.786Z",
+    "reviewerRole": "buyer"
+  },
+  {
+    "id": 8,
+    "productId": 3,
+    "sellerId": "2",
+    "buyerId": 1,
+    "orderId": 19,
+    "rating": 5,
+    "comment": "Supeer",
+    "dateCreated": "2025-10-03T19:00:14.732Z",
+    "reviewerRole": "buyer"
+  }
+]

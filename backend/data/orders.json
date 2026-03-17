@@ -1,0 +1,72 @@
+[
+  {
+    "id": 12,
+    "productId": 5,
+    "buyerId": 2,
+    "sellerId": "3",
+    "price": 23000,
+    "status": "Odobreno",
+    "dateCreated": "2025-10-01T17:30:57.631Z",
+    "rejectionReason": null
+  },
+  {
+    "id": 13,
+    "productId": 4,
+    "buyerId": 1,
+    "sellerId": "2",
+    "price": 6000,
+    "status": "Odobreno",
+    "dateCreated": "2025-10-03T10:47:35.163Z",
+    "rejectionReason": null
+  },
+  {
+    "id": 16,
+    "productId": 1,
+    "buyerId": 1,
+    "sellerId": "2",
+    "price": "3000",
+    "status": "Odobreno",
+    "dateCreated": "2025-10-03T18:15:06.787Z",
+    "rejectionReason": null
+  },
+  {
+    "id": 18,
+    "productId": 6,
+    "buyerId": 2,
+    "sellerId": "3",
+    "price": 5500,
+    "status": "Odobreno",
+    "dateCreated": "2025-10-03T18:24:48.288Z",
+    "rejectionReason": null
+  },
+  {
+    "id": 19,
+    "productId": 3,
+    "buyerId": 1,
+    "sellerId": "2",
+    "price": 4500,
+    "status": "Odobreno",
+    "dateCreated": "2025-10-03T18:26:25.517Z",
+    "rejectionReason": null
+  },
+  {
+    "id": 20,
+    "productId": 7,
+    "buyerId": 2,
+    "sellerId": "5",
+    "price": "1524000",
+    "status": "Odobreno",
+    "dateCreated": "2025-10-06T10:54:19.246Z",
+    "rejectionReason": null
+  },
+  {
+    "id": 21,
+    "productId": 16,
+    "buyerId": 5,
+    "sellerId": "2",
+    "price": 2500,
+    "status": "Obrada",
+    "dateCreated": "2025-10-06T11:10:08.488Z",
+    "rejectionReason": null
+  }
+]

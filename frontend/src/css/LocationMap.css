@@ -1,0 +1,100 @@
+.location-map-container {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.map-search-bar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.map-search-input {
+  flex: 1;
+  padding: 12px 16px;
+  border: 2px solid #ff69b4;
+  border-radius: 10px;
+  font-size: 14px;
+  outline: none;
+  transition: all 0.3s;
+}
+
+.map-search-input:focus {
+  border-color: #c71585;
+  box-shadow: 0 0 8px rgba(199, 21, 133, 0.2);
+}
+
+.map-search-btn {
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #ff69b4, #c71585);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s;
+  white-space: nowrap;
+}
+
+.map-search-btn:hover:not(:disabled) {
+  opacity: 0.9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(199, 21, 133, 0.3);
+}
+
+.map-search-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.map-element {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 3px 15px rgba(199, 21, 133, 0.15);
+  border: 3px solid #ffe4ec;
+}
+
+.map-hint {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #c71585;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Override OpenLayers default styles */
+.ol-zoom {
+  top: 10px;
+  left: auto;
+  right: 10px;
+}
+
+.ol-zoom button {
+  background-color: #ff69b4 !important;
+  color: white !important;
+  border: 2px solid white !important;
+  font-weight: bold;
+}
+
+.ol-zoom button:hover {
+  background-color: #c71585 !important;
+}
+
+.ol-attribution {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .map-search-bar {
+    flex-direction: column;
+  }
+  
+  .map-search-btn {
+    width: 100%;
+  }
+}

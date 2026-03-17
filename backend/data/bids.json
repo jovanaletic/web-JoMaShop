@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "productId": 3,
+    "bidderId": 1,
+    "bidAmount": 4500,
+    "dateBid": "2025-10-03T18:21:40.965Z"
+  },
+  {
+    "id": 2,
+    "productId": 6,
+    "bidderId": 1,
+    "bidAmount": 5000,
+    "dateBid": "2025-10-03T18:22:04.313Z"
+  },
+  {
+    "id": 3,
+    "productId": 6,
+    "bidderId": 2,
+    "bidAmount": 5500,
+    "dateBid": "2025-10-03T18:23:01.015Z"
+  },
+  {
+    "id": 4,
+    "productId": 9,
+    "bidderId": 2,
+    "bidAmount": 30002,
+    "dateBid": "2025-10-06T11:31:45.246Z"
+  },
+  {
+    "id": 5,
+    "productId": 17,
+    "bidderId": 3,
+    "bidAmount": 40500,
+    "dateBid": "2025-10-06T11:40:35.199Z"
+  }
+]

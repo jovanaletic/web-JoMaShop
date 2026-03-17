@@ -1,0 +1,1583 @@
+[
+  {
+    "id": 1,
+    "name": "Ženska večernja haljina",
+    "description": "Elegantna tamno ljubičasta večernja haljina, nošena jednom/dvaput, kao nova.",
+    "category": {
+      "name": "Garderoba"
+    },
+    "price": "3000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T16:52:02.639Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759337522636-552072105.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759337522636-552072105.jpg\"]",
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Twisted Serijal Ana Huang",
+    "description": "Nove knjige, čitav serijal (sve 4 knjige - Twisted Love, Twisted Games, Twisted Hate, Twisted Lies).",
+    "category": {
+      "name": "Knjige"
+    },
+    "price": "6000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T16:57:31.174Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759337851171-772154710.jpg",
+      "/uploads/products/product-1759337941441-561707068.jpg",
+      "/uploads/products/product-1759337941441-60953173.jpg",
+      "/uploads/products/product-1759337941442-744063406.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759337851171-772154710.jpg\",\"/uploads/products/product-1759337941441-561707068.jpg\",\"/uploads/products/product-1759337941441-60953173.jpg\",\"/uploads/products/product-1759337941442-744063406.jpg\"]",
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Plišana igračka jednorog",
+    "description": "Nova plišana igračka jednorog, veoma mekana.",
+    "category": {
+      "name": "Igračke"
+    },
+    "price": "4000",
+    "saleType": "auction",
+    "datePublished": "2025-10-01T17:01:05.308Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759338065306-170633746.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759338065306-170633746.jpg\"]",
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ženske crne čizme",
+    "description": "Crne Dr.Martens čizme nošene samo dva puta, kao nove, broj 40.",
+    "category": {
+      "name": "Obuća"
+    },
+    "price": "6000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T17:08:52.663Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759338532657-323399971.jpg",
+      "/uploads/products/product-1759338532659-216763377.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759338532657-323399971.jpg\",\"/uploads/products/product-1759338532659-216763377.jpg\"]",
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Zlatni retriver kuče",
+    "description": "Kuče zlatnog retrivera, star 3 meseca, vakcinisan, sa svim papirima i pasošem.",
+    "category": {
+      "name": "Kućni ljubimci"
+    },
+    "price": "23000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T17:15:50.925Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759338950921-410658961.jpg",
+      "/uploads/products/product-1759338950921-736225830.jpg",
+      "/uploads/products/product-1759338950923-577109131.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759338950921-410658961.jpg\",\"/uploads/products/product-1759338950921-736225830.jpg\",\"/uploads/products/product-1759338950923-577109131.jpg\"]",
+    "location": {
+      "latitude": 44.81759059113111,
+      "longitude": 20.416308901746184,
+      "street": "Булевар Зорана Ђинђића",
+      "houseNumber": "115",
+      "city": "Belgrade",
+      "postalCode": "11070",
+      "country": "Serbia",
+      "fullAddress": "115, Булевар Зорана Ђинђића, Akademija, New Belgrade Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11070, Serbia"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Lego Set - Kamera",
+    "description": "Korišćen lego set, u odličnom stanju, kao nov.",
+    "category": {
+      "name": "Igračke"
+    },
+    "price": "4000",
+    "saleType": "auction",
+    "datePublished": "2025-10-01T17:18:12.021Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759339092019-174787165.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759339092019-174787165.jpg\"]",
+    "location": {
+      "latitude": 44.8175876,
+      "longitude": 20.4163133,
+      "street": "Булевар Зорана Ђинђића",
+      "houseNumber": "115",
+      "city": "Belgrade",
+      "postalCode": "11070",
+      "country": "Serbia",
+      "fullAddress": "115, Булевар Зорана Ђинђића, Akademija, New Belgrade Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11070, Serbia"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Golf 7",
+    "description": "Novi Golf 7, Dizel, 90/122 (kW/KS)",
+    "category": {
+      "name": "Automobili"
+    },
+    "price": "1524000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T17:22:19.160Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759339339157-54705106.jpg",
+      "/uploads/products/product-1759339339157-176508076.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759339339157-54705106.jpg\",\"/uploads/products/product-1759339339157-176508076.jpg\"]",
+    "location": {
+      "latitude": 44.796794228384584,
+      "longitude": 20.471047201431738,
+      "street": "Stojana Protica",
+      "houseNumber": "17",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "17, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Audi Q8",
+    "description": "Audi Q8, novi, automatik, dizel",
+    "category": {
+      "name": "Automobili"
+    },
+    "price": "4000000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T17:24:48.278Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759339488275-457025092.jpg",
+      "/uploads/products/product-1759339488275-451800724.jpg",
+      "/uploads/products/product-1759339488276-461318307.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759339488275-457025092.jpg\",\"/uploads/products/product-1759339488275-451800724.jpg\",\"/uploads/products/product-1759339488276-461318307.jpg\"]",
+    "location": {
+      "latitude": 44.7967641,
+      "longitude": 20.4710226,
+      "street": "Stojana Protica",
+      "houseNumber": "17",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "17, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lego Set - Automobil",
+    "description": "Lego set crni sportski automobil. Korišćen, ali u odličnom stanju.",
+    "category": {
+      "name": "Igračke"
+    },
+    "price": "3000",
+    "saleType": "auction",
+    "datePublished": "2025-10-01T17:27:39.275Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759339659273-799205516.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759339659273-799205516.jpg\"]",
+    "location": {
+      "latitude": 44.7967641,
+      "longitude": 20.4710226,
+      "street": "Stojana Protica",
+      "houseNumber": "17",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "17, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Scrable društvena igra",
+    "description": "Korišćen, u dobrom stanju.",
+    "category": {
+      "name": "Društvene igre"
+    },
+    "price": "1000",
+    "saleType": "fixed",
+    "datePublished": "2025-10-01T17:30:09.167Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759339809164-351286398.jpg",
+      "/uploads/products/product-1759339809164-532094611.jpg"
+    ],
+    "existingImages": "[\"/uploads/products/product-1759339809164-351286398.jpg\",\"/uploads/products/product-1759339809164-532094611.jpg\"]",
+    "location": {
+      "latitude": 44.7967641,
+      "longitude": 20.4710226,
+      "street": "Stojana Protica",
+      "houseNumber": "17",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "17, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Nike braon-bež patike",
+    "description": "Nike patike, slabo nošene, kao nove",
+    "category": {
+      "name": "Obuća"
+    },
+    "price": "4999",
+    "saleType": "fixed",
+    "datePublished": "2025-10-03T11:05:16.369Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759489516357-628002471.jpg"
+    ],
+    "location": {
+      "latitude": 45.250340745803186,
+      "longitude": 19.842351662528806,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    },
+    "existingImages": "[\"/uploads/products/product-1759489516357-628002471.jpg\"]"
+  },
+  {
+    "id": 12,
+    "name": "Luksuzna ogrlica",
+    "description": "Dijamantska ogrlica za svečane prilike",
+    "category": {
+      "name": "Nakit"
+    },
+    "price": "11997",
+    "saleType": "fixed",
+    "datePublished": "2025-10-03T18:47:09.378Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759517396227-192592613.jpeg"
+    ],
+    "location": {
+      "latitude": 44.78630003754975,
+      "longitude": 20.42036759830151,
+      "street": "Паштровићева",
+      "houseNumber": "16",
+      "city": "Cukarica Urban Municipality",
+      "postalCode": "11002",
+      "country": "Serbia",
+      "fullAddress": "16, Паштровићева, Mihajlovac, Čukarica, Cukarica Urban Municipality, City of Belgrade, Central Serbia, 11002, Serbia"
+    },
+    "existingImages": "[\"/uploads/products/product-1759517396227-192592613.jpeg\"]"
+  },
+  {
+    "id": 13,
+    "name": "Bazen",
+    "description": "Bazen 5x5",
+    "category": {
+      "name": "Bazeni"
+    },
+    "price": 25000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-04T00:30:08.943Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759537808932-551920790.jpg"
+    ],
+    "location": {
+      "latitude": 45.2551338,
+      "longitude": 19.8451756,
+      "street": "",
+      "houseNumber": "",
+      "city": "Novi Sad",
+      "postalCode": "",
+      "country": "Serbia",
+      "fullAddress": "Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, Serbia"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Paleta senki",
+    "description": "Nude paleta",
+    "category": {
+      "name": "Šminka"
+    },
+    "price": 2000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-04T21:45:01.104Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759614301063-851815530.jpeg"
+    ],
+    "location": {
+      "latitude": 45.2497929,
+      "longitude": 19.8556337,
+      "street": "Булевар Цара Лазара",
+      "houseNumber": "",
+      "city": "Novi Sad",
+      "postalCode": "21101",
+      "country": "Serbia",
+      "fullAddress": "Булевар Цара Лазара, МЗ Лиман, МЗ Соња Маринковић, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21101, Serbia"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Macbook Air Laptop",
+    "description": "Polovan. Dobro očuvan. Rose gold boja",
+    "category": {
+      "name": "Elektronika"
+    },
+    "price": 130000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T10:40:02.050Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759747202034-914254522.jpeg",
+      "/uploads/products/product-1759747202040-737423805.jpeg"
+    ],
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Set noževa",
+    "description": "Luksuzan set noževa.",
+    "category": {
+      "name": "Escajg"
+    },
+    "price": 2500,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T10:41:27.539Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759747287534-489021441.jpeg"
+    ],
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Apple Watch pametni sat",
+    "description": "Apple Watch pametni sat, odličnp očuvan, korišćen svega nekoliko puta",
+    "category": {
+      "name": "Elektronika"
+    },
+    "price": 40000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T11:39:49.219Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759750789213-527638900.jpg"
+    ],
+    "location": {
+      "latitude": 44.80934217712854,
+      "longitude": 20.428439258260358,
+      "street": "Булевар Арсенија Чарнојевића",
+      "houseNumber": "26",
+      "city": "Belgrade",
+      "postalCode": "11070",
+      "country": "Serbia",
+      "fullAddress": "26, Булевар Арсенија Чарнојевића, MZ Usce, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11070, Serbia"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Kućna palma",
+    "description": "Drvo palme za kućne uslove, u saksiji, visina 1m.",
+    "category": {
+      "name": "Bašta i dvorište"
+    },
+    "price": 6999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T16:46:05.262Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759769165254-879862298.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski venac, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Kolica za bebe sa svim nastavcima",
+    "description": "Odlično očuvana kolica za bebe, vrlo malo korišćena, sa svim nastavcima i torbom.",
+    "category": {
+      "name": "Bebe i deca"
+    },
+    "price": 28999,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T16:47:59.500Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759769279495-108681349.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski venac, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Baby gym sa prostirkom",
+    "description": "Dobro očuvan, korišćen baby gym u nude nijansama. Odličan za razvijanje motorike deteta.",
+    "category": {
+      "name": "Bebe i deca"
+    },
+    "price": 1000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T16:49:59.030Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759769399022-828614257.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski venac, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 21,
+    "name": "iPhone 15 128GB rozi + maska ",
+    "description": "Rozi iPhone 15, 128GB memorije, korišćen 3 meseca, Battery health = 98%. Uz telefon šaljem i masku za isti prikazanu na slici kao i punjač",
+    "category": {
+      "name": "Elektronika"
+    },
+    "price": 100000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T16:53:19.893Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759769599882-104222755.jpg",
+      "/uploads/products/product-1759769599883-374068089.jpg",
+      "/uploads/products/product-1759769599887-361025345.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Cvetna prolećna haljina",
+    "description": "Bela haljina sa sitnim, cvetnim printom u plavoj boji. Nošena jednu sezonu.",
+    "category": {
+      "name": "Garderoba"
+    },
+    "price": 1300,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T16:55:55.811Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759769755804-199253582.jpg",
+      "/uploads/products/product-1759769755804-368459248.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Spanish Love Deception Elena Armas",
+    "description": "Knjiga na engleskom jeziku, kao nova.",
+    "category": {
+      "name": "Knjige"
+    },
+    "price": 1000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T16:58:24.711Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759769904705-673063368.jpg",
+      "/uploads/products/product-1759769904706-329563457.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11111",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski venac, Belgrade, City of Belgrade, Central Serbia, 11111, Serbia"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Komplet 4  A5 sveske",
+    "description": "Komplet 4 sveske na spirale, dve sveske na kvadratiće, druge dve na linije.",
+    "category": {
+      "name": "Škola"
+    },
+    "price": "600",
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:00:37.580Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759770037575-838922880.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11111",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski venac, Belgrade, City of Belgrade, Central Serbia, 11111, Serbia"
+    },
+    "existingImages": "[\"/uploads/products/product-1759770037575-838922880.jpg\"]"
+  },
+  {
+    "id": 25,
+    "name": "Slika brod i lale",
+    "description": "Pejzaž - brod, voda, lale. Na platnu, rađena akrilom.",
+    "category": {
+      "name": "Umetnost"
+    },
+    "price": 6000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:03:55.880Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759770235876-100768519.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Set za kućni trening",
+    "description": "Rozi set za kućni trening - odlične sprave za pilates.",
+    "category": {
+      "name": "Sport"
+    },
+    "price": 12000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:06:38.372Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759770398367-54387660.jpg",
+      "/uploads/products/product-1759770398367-734790642.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 27,
+    "name": "American Roommate Experiment Elena Armas",
+    "description": "Knjiga American Roommate Experiment na engleskom jeziku, odlično očuvana.",
+    "category": {
+      "name": "Knjige"
+    },
+    "price": 1000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:08:24.203Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759770504198-57814449.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sivi bračni krevet",
+    "description": "Na prodaju sivi bračni krevet u odličnom stanju, bez ikakvih oštećenja.",
+    "category": {
+      "name": "Nameštaj"
+    },
+    "price": 17000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:11:53.408Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759770713404-309937357.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Jordan košarkaška lopta",
+    "description": "Nova Jordan košarkaška lopta",
+    "category": {
+      "name": "Sport"
+    },
+    "price": 6000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:14:59.465Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759770899460-791118806.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Breville Barista Express aparat za kafu",
+    "description": "Breville Barista Express aparat za kafu, odlično očuvan, vrlo malo korišćen, kao nov.",
+    "category": {
+      "name": "Kuhinjski aparati"
+    },
+    "price": 28000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:16:51.648Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771011643-298952077.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Ormarić za kupatilo",
+    "description": "Zidni ormarić za kupatilo, bele boje. Nov.",
+    "category": {
+      "name": "Kupatilo"
+    },
+    "price": 11998,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:18:28.429Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771108425-873266739.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Set 8 polica za tuš kabinu",
+    "description": "Set 8 polica za tuš kabinu\r\nDimenzije: 20cm x 30cm x 5cm",
+    "category": {
+      "name": "Kupatilo"
+    },
+    "price": 4000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:20:37.538Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771237532-720084330.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Stočić za dnevnu sobu ",
+    "description": "Stočić za dnevnu sobu - drvo (hrast) + staklo, sa dodatnim skrivenim fiokama, crni okvir",
+    "category": {
+      "name": "Nameštaj"
+    },
+    "price": 7000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:23:23.455Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771403451-771224336.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Beli čupavi tepih",
+    "description": "Beli čupavi tepih, pravougaonog oblika\r\nDimenzije: 60cm x 90xm x 10cm",
+    "category": {
+      "name": "Kuća"
+    },
+    "price": 8500,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:25:22.089Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771522082-436975011.jpg",
+      "/uploads/products/product-1759771522084-613277341.jpg",
+      "/uploads/products/product-1759771522085-908377660.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Polo Ralph Lauren muška rolka",
+    "description": "Polo Ralph Lauren muška rolka original, svetlo braon boje. Malo nošena, kao nova. Veličina XL.",
+    "category": {
+      "name": "Garderoba"
+    },
+    "price": 6000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:27:20.713Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771640704-920397118.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Krevet za pse",
+    "description": "Krevet za pse - drveni ram sa debelom prostirkom unutra.",
+    "category": {
+      "name": "Kućni ljubimci"
+    },
+    "price": 2999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:29:53.553Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771793548-327814140.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Akustična gitara",
+    "description": "Akustična gitara, polovna, u odličnom stanju, postavljene nove žice",
+    "category": {
+      "name": "Muzički instrumenti"
+    },
+    "price": 19997,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:32:15.320Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759771935317-761759100.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Crosley Gramofon",
+    "description": "Beli Crosley gramofon, odlično očuvan, vrlo malo korišćen.",
+    "category": {
+      "name": "Muzika i filmovi"
+    },
+    "price": 40000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:33:49.650Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772029646-91698948.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Zdravko Čolić - The Platinum Collection CD",
+    "description": "Zdravko Čolić - The Platinum Collection CD",
+    "category": {
+      "name": "Muzika i filmovi"
+    },
+    "price": 1500,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:35:34.546Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772134542-494338830.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Grease CD",
+    "description": "Film Grease CD",
+    "category": {
+      "name": "Muzika i filmovi"
+    },
+    "price": 1000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:37:01.571Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772221567-871998991.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Karte za Krcka Oraščića na ledu",
+    "description": "3 karte za Krcka Oraščića na ledu\r\nDatum: 24.12.2025. u 20h\r\nLokacija: Sava Centar Beograd\r\nSedišta: 8. red sedišta 27,28,29",
+    "category": {
+      "name": "Muzika i filmovi"
+    },
+    "price": 7000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:39:26.465Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772366459-836269911.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Set od 2 ležaljke",
+    "description": "Set od dve ležaljke za dvorište sa kvalitetnim, debelim sundjerima od platna.",
+    "category": {
+      "name": "Bašta i dvorište"
+    },
+    "price": 19999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:47:01.906Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772821901-879594315.jpg"
+    ],
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Sto i stolice za dvorište",
+    "description": "Set - sto i 8 stolica, u odličnom stanju, sa novim sedalicama",
+    "category": {
+      "name": "Bašta i dvorište"
+    },
+    "price": 59999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:48:22.970Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772902965-59734252.jpg"
+    ],
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Roštilj",
+    "description": "Roštilj za dvorište, odlično očuvan",
+    "category": {
+      "name": "Bašta i dvorište"
+    },
+    "price": 36999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:49:30.007Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759772969998-340017286.jpg",
+      "/uploads/products/product-1759772970002-324509626.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Jaknica za devojčice",
+    "description": "Prolećna jaknica za devojčice, sa prinezom Arijel (mala sirena)\r\nVeličina: 6/7 godina",
+    "category": {
+      "name": "Bebe i deca"
+    },
+    "price": 3000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:51:50.959Z",
+    "sellerId": "2",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773110954-286021030.jpg"
+    ],
+    "location": {
+      "latitude": 45.2503394,
+      "longitude": 19.8423442,
+      "street": "Васе Стајића",
+      "houseNumber": "22b",
+      "city": "Novi Sad",
+      "postalCode": "21103",
+      "country": "Serbia",
+      "fullAddress": "22b, Васе Стајића, Stari grad, МЗ Прва војвођанска бригада, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21103, Serbia"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Rozi električni ketler",
+    "description": "Rozi električni ketler, nov",
+    "category": {
+      "name": "Kuhinjski aparati"
+    },
+    "price": 8999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:53:33.190Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773213186-108729959.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Robot usisivač crni",
+    "description": "Robot usisivač crne boje, polovan, odlično radi",
+    "category": {
+      "name": "Kuća"
+    },
+    "price": 80000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:56:48.758Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773408753-46758216.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Štapni usisivač",
+    "description": "Štapni usisivač sa nastavcima",
+    "category": {
+      "name": "Kuća"
+    },
+    "price": 39999,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T17:58:06.723Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773486719-109064346.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Ginger mače",
+    "description": "Mače staro 4 meseca, riđe se belim šarama, vakcinisano, ženka",
+    "category": {
+      "name": "Kućni ljubimci"
+    },
+    "price": 20000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T17:59:59.099Z",
+    "sellerId": "5",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773599091-641414845.jpg",
+      "/uploads/products/product-1759773599094-218293611.jpg",
+      "/uploads/products/product-1759773599094-719724676.jpg"
+    ],
+    "location": {
+      "latitude": 44.8091528,
+      "longitude": 20.3802962,
+      "street": "Војвођанска",
+      "houseNumber": "15",
+      "city": "Belgrade",
+      "postalCode": "11078",
+      "country": "Serbia",
+      "fullAddress": "15, Војвођанска, Mladost, New Belgrade, Belgrade, City of Belgrade, Central Serbia, 11078, Serbia"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Marama",
+    "description": "Marama za kosu",
+    "category": {
+      "name": "Modni detalji"
+    },
+    "price": 1200,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T18:01:24.510Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773684504-88981581.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Coach bela torbica",
+    "description": "Coach bela torbica, kao nova",
+    "category": {
+      "name": "Torbe"
+    },
+    "price": 20000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T18:03:04.018Z",
+    "sellerId": "3",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759773784013-920308265.jpg",
+      "/uploads/products/product-1759773784013-459371988.jpg",
+      "/uploads/products/product-1759773784014-234361249.jpg"
+    ],
+    "location": {
+      "latitude": 44.8038211,
+      "longitude": 20.4602546,
+      "street": "Bircaninova",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11102",
+      "country": "Serbia",
+      "fullAddress": "20, Bircaninova, МЗ Западни Врачар, Savski Venac Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11102, Serbia"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Renault Clio",
+    "description": "Renault Clio 2017. godište benzinac",
+    "category": {
+      "name": "Automobili"
+    },
+    "price": 1000000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T18:25:21.876Z",
+    "sellerId": "10",
+    "status": "deleted",
+    "deleted": true,
+    "images": [
+      "/uploads/products/product-1759775121863-754747195.jpg",
+      "/uploads/products/product-1759775121865-533396660.jpg",
+      "/uploads/products/product-1759775121869-624295692.jpg"
+    ],
+    "location": {
+      "latitude": 45.2599328,
+      "longitude": 19.8309802,
+      "street": "Bulevar oslobodjenja",
+      "houseNumber": "20",
+      "city": "Novi Sad",
+      "postalCode": "21000",
+      "country": "Serbia",
+      "fullAddress": "20, Bulevar oslobodjenja, Sajmište, МЗ Сава Ковачевић, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21000, Serbia"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Renault Clio",
+    "description": "Renault Clio 2017. godište\r\nBenzinac",
+    "category": {
+      "name": "Automobili"
+    },
+    "price": "999999",
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T18:42:21.297Z",
+    "sellerId": "10",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759776141293-956624922.jpg",
+      "/uploads/products/product-1759776168595-277854835.jpg",
+      "/uploads/products/product-1759776168598-350589384.jpg"
+    ],
+    "location": {
+      "latitude": 44.7965643,
+      "longitude": 20.4715645,
+      "street": "Stojana Protica",
+      "houseNumber": "26",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "26, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    },
+    "existingImages": "[\"/uploads/products/product-1759776141293-956624922.jpg\"]"
+  },
+  {
+    "id": 54,
+    "name": "Krem odelo",
+    "description": "Krem odelo, pnataone, prsluk i sako, bela košulja i krem kravata.",
+    "category": {
+      "name": "Garderoba"
+    },
+    "price": 19000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T19:14:14.714Z",
+    "sellerId": "10",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759778054708-951991180.jpg"
+    ],
+    "location": {
+      "latitude": 44.7965315,
+      "longitude": 20.4711865,
+      "street": "Stojana Protica",
+      "houseNumber": "20",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "20, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Ginger patuljasti zec",
+    "description": "patuljasti zec, 5 meseci star, mužjak",
+    "category": {
+      "name": "Kućni ljubimci"
+    },
+    "price": 13000,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T19:15:55.915Z",
+    "sellerId": "10",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759778155912-208872377.jpg"
+    ],
+    "location": {
+      "latitude": 44.7967422,
+      "longitude": 20.4707156,
+      "street": "Stojana Protica",
+      "houseNumber": "13",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "13, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Traka za trčanje",
+    "description": "Traka za trčanje, slabo korišćena, kao nova.",
+    "category": {
+      "name": "Sport"
+    },
+    "price": 30000,
+    "saleType": "auction",
+    "datePublished": "2025-10-06T19:17:28.343Z",
+    "sellerId": "10",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759778248340-772557618.jpg"
+    ],
+    "location": {
+      "latitude": 44.7967422,
+      "longitude": 20.4707156,
+      "street": "Stojana Protica",
+      "houseNumber": "13",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "13, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Muške svetlo braon mokasine",
+    "description": "Mokasine sa anatomskim uloškom, veličina 45",
+    "category": {
+      "name": "Obuća"
+    },
+    "price": 3500,
+    "saleType": "fixed",
+    "datePublished": "2025-10-06T19:19:33.701Z",
+    "sellerId": "10",
+    "status": "active",
+    "deleted": false,
+    "images": [
+      "/uploads/products/product-1759778373696-737897908.jpg",
+      "/uploads/products/product-1759778373698-273564607.jpg"
+    ],
+    "location": {
+      "latitude": 44.7967422,
+      "longitude": 20.4707156,
+      "street": "Stojana Protica",
+      "houseNumber": "13",
+      "city": "Belgrade",
+      "postalCode": "11000",
+      "country": "Serbia",
+      "fullAddress": "13, Stojana Protica, Čubura, Vračar, Vracar Urban Municipality, Belgrade, City of Belgrade, Central Serbia, 11000, Serbia"
+    }
+  }
+]

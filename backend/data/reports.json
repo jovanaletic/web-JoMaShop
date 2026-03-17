@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "reporterId": 1,
+    "reportedUserId": 2,
+    "reason": "Nije poslao",
+    "status": "rejected",
+    "createdAt": "2025-10-03T11:02:15.101Z",
+    "reviewedAt": "2025-10-05T00:15:41.613Z",
+    "reviewedBy": 7,
+    "adminNote": "nevalidno"
+  },
+  {
+    "id": 2,
+    "reporterId": 1,
+    "reportedUserId": 2,
+    "reason": "nije isporucio proizvod",
+    "status": "rejected",
+    "createdAt": "2025-10-03T19:00:40.506Z",
+    "reviewedAt": "2025-10-05T00:21:45.056Z",
+    "reviewedBy": 7,
+    "adminNote": "nije validna"
+  },
+  {
+    "id": 3,
+    "reporterId": 2,
+    "reportedUserId": 1,
+    "reason": "nije ispostovao dogovor",
+    "status": "rejected",
+    "createdAt": "2025-10-05T00:25:21.341Z",
+    "reviewedAt": "2025-10-05T00:26:03.546Z",
+    "reviewedBy": 7,
+    "adminNote": "nevalidno"
+  },
+  {
+    "id": 4,
+    "reporterId": 2,
+    "reportedUserId": 1,
+    "reason": "nije ispostovao dogovor",
+    "status": "rejected",
+    "createdAt": "2025-10-05T00:25:22.913Z",
+    "reviewedAt": "2025-10-05T00:28:51.934Z",
+    "reviewedBy": 7,
+    "adminNote": "nevalidno"
+  },
+  {
+    "id": 5,
+    "reporterId": 2,
+    "reportedUserId": 1,
+    "reason": "nije ispostovala dogovor",
+    "status": "rejected",
+    "createdAt": "2025-10-05T00:38:05.812Z",
+    "reviewedAt": "2025-10-05T00:38:37.824Z",
+    "reviewedBy": 7,
+    "adminNote": "nevalidno"
+  }
+]
